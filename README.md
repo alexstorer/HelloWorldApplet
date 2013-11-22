@@ -20,3 +20,4 @@ Notice that the HelloWorld object is itself an applet - this is a requirement fo
 		}
 	}
 
+To verify that this works, simply clone this repository and open the local copy `hello.html` in your web browser.
